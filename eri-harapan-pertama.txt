@@ -1,4 +1,5 @@
 harapan pertama (menyelesaikan studi front end end developer)
+- pendahuluan kelas kelasfullstack
 - belajar algoritma : selesai
 - belajar text editor dan IDE : selesai
 - belajar GIT dan GitHub : on going
@@ -6,3 +7,7 @@ harapan pertama (menyelesaikan studi front end end developer)
 - lalu CSS 
 - belajar BOOTSTRAP
 - belajar JAVA SCRIPT DASAR
+  - DOM 
+  -
+  -
+- belajar FRAMEWORK CSS
