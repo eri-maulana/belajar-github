@@ -4,5 +4,6 @@ harapan pertama (menyelesaikan studi front end end developer)
 - belajar GIT dan GitHub : on going
 - setelah ini belajar HTML
 - lalu CSS 
+  -belajar framework CSS
 - belajar BOOTSTRAP
 - belajar JAVA SCRIPT DASAR
