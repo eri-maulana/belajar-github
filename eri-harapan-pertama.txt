@@ -5,3 +5,4 @@ harapan pertama (menyelesaikan studi front end end developer)
 - setelah ini belajar HTML
 - lalu CSS 
 - belajar BOOTSTRAP
+- belajar JAVA SCRIPT DASAR
