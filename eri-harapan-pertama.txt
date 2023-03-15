@@ -12,3 +12,5 @@ harapan pertama (menyelesaikan studi front end end developer)
   -
   -
 - belajar FRAMEWORK CSS
+  ^ bootstrap 
+  ^ tailwind 
